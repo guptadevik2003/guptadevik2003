@@ -32,6 +32,6 @@ I'm a web dev ... lorem ipsum
 
 ### Employer?
 > [!IMPORTANT]
-> <a href="" download>Download My Resume</a>
+> <a href="https://github.com/guptadevik2003/guptadevik2003/raw/refs/heads/main/assets/Resume%20-%20Devik%20Gupta%20-%20Nov-24.pdf" download>Download My Resume</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40C463&height=120&section=footer" alt="footer">
