@@ -33,7 +33,7 @@ I’m open to exploring **collaborative projects, internships, or freelance role
 
 ### Employer?
 > [!IMPORTANT]
-> <a href="https://github.com/guptadevik2003/guptadevik2003/raw/refs/heads/main/assets/Resume%20-%20Devik%20Gupta%20-%20Nov-24.pdf" download><img src="https://img.shields.io/badge/Download_My_Resume-%238957E5?style=for-the-badge" alt="Download My Resume" /></a>
+> <a href="[https://github.com/guptadevik2003/guptadevik2003/raw/refs/heads/main/assets/Resume%20-%20Devik%20Gupta%20-%20Nov-24.pdf](https://github.com/guptadevik2003/guptadevik2003/blob/fefceb6bacb730cc1e41f5fa499badf48baf1bb2/assets/Resume%20-%20Devik%20Gupta%20-%2004%20-%20Feb-25.pdf)" download><img src="https://img.shields.io/badge/Download_My_Resume-%238957E5?style=for-the-badge" alt="Download My Resume" /></a>
 
 ## <div align="center">🛠️ Skills & Tools</div>
 - **Programming Languages**: JavaScript, Python, C/C++, HTML/CSS, Java.
